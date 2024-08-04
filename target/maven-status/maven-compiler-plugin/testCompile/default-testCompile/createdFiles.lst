@@ -1,0 +1,12 @@
+pages\NotebooksPage.class
+utils\StringManipulator.class
+pages\ShoppingCartPage.class
+step\definitions\ScreenshotOnFailure.class
+pages\RegisterSuccess.class
+pages\LoginPage.class
+step\definitions\Hooks.class
+pages\RegisterPage.class
+step\definitions\ScreenshootOnEveryStep.class
+selenium\tests\TestScenarios.class
+utils\EmailGenerator.class
+pages\MainPage.class
